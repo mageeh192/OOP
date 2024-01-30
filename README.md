@@ -1,0 +1,1 @@
+I acknowledge that this is a little messed up. There will be some branches for individual labs and also tags/releases for when the overall lab assignment changes (ex: from profile to roulette wheel). Hope it doesn't suck to naviagate.
